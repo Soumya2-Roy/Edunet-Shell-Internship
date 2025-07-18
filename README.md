@@ -8,6 +8,8 @@
   </a>
 </p>
 <p>
-  <img src="https://tycoonsuccess.com/wp-content/uploads/2023/05/The-Science-of-Climate-Change-Understanding-Global-Warming-and-its-Impacts-01-1.jpg" alt="Global Warming Icon" width="30" style="vertical-align: middle; margin-right: 10px;">
+<h2>
+  <img src="https://tycoonsuccess.com/wp-content/uploads/2023/05/The-Science-of-Climate-Change-Understanding-Global-Warming-and-its-Impacts-01-1.jpg" alt="Global Warming Icon" width="40" style="vertical-align: middle; margin-right: 10px;">
   <strong>Greenhouse Gas (GHG) Emission Prediction Project</strong>
-</p>
+</h2>
+
