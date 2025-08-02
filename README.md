@@ -175,7 +175,7 @@ http://localhost:5000
 
 ---
 ## Acknowledgment:
-Special thanks to **[Deepak Yadav Sir](https://www.linkedin.com/in/deepak-yadav-5363b91ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**and**[Akshay Dwivedi Sir](https://www.linkedin.com/in/akshay-dwivedi-7b2153208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** for their continued mentorship throughout the internship. This project gave me real-world experience in sustainable analytics and AI/ML pipeline development.
+Special thanks to **[Deepak Yadav Sir](https://www.linkedin.com/in/deepak-yadav-5363b91ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) **and** [Akshay Dwivedi Sir](https://www.linkedin.com/in/akshay-dwivedi-7b2153208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** for their continued mentorship throughout the internship. This project gave me real-world experience in sustainable analytics and AI/ML pipeline development.
 
 ------
 ## Thank You! 💙
