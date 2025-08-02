@@ -187,6 +187,7 @@ Thanks for checking out my project! If you found it useful, please consider:
 🛠 **Contributing** improvements  
 
 Coded with ❤️ by **Soumya Roy**  
-🔗 www.linkedin.com/in/soumya-roy-136135324 | 💌 Email-ghoshmoon19@gmail.com
+🔗 [linkedin Link](www.linkedin.com/in/soumya-roy-136135324) 
+💌 Email-ghoshmoon19@gmail.com
 
 
