@@ -174,4 +174,19 @@ http://localhost:5000
 - Include external variables like policy impact, regional energy mix
 
 ---
+## Acknowledgment:
+Special thanks to **[Raghunanadan M S Sir](https://www.linkedin.com/in/raghunandanms/)**,**[Dr. Dulari Bhatt Ma’am](https://www.linkedin.com/in/dulari-bhatt/)** for their continued mentorship throughout the internship. This project gave me real-world experience in sustainable analytics and AI/ML pipeline development.
+
+------
+## Thank You! 💙
+
+Thanks for checking out my project! If you found it useful, please consider:  
+[![GitHub stars](http://github.com/Soumya2-Roy)] 
+⭐ **Starring** the repo  
+🐛 **Reporting** issues  
+🛠 **Contributing** improvements  
+
+Coded with ❤️ by **Soumya Roy**  
+🔗 www.linkedin.com/in/soumya-roy-136135324 | 💌 Email-ghoshmoon19@gmail.com
+
 
