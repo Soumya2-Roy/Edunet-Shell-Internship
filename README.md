@@ -181,7 +181,8 @@ Special thanks to **[Deepak Yadav Sir](https://www.linkedin.com/in/deepak-yadav-
 ## Thank You! 💙
 
 Thanks for checking out my project! If you found it useful, please consider:  
-[![GitHub stars](http://github.com/Soumya2-Roy)] 
+[
+[GitHub stars](http://github.com/Soumya2-Roy)] 
 ⭐ **Starring** the repo  
 🐛 **Reporting** issues  
 🛠 **Contributing** improvements  
