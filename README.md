@@ -98,17 +98,19 @@ https://github.com/user-attachments/assets/68a33ae2-9fea-402a-86ba-cb6d4a1c5905
 ```
 GHG Emission App/
 ├── app.py                       # Main Flask application file
-├── requirements.txt             # List of required Python packages
+├── requirements.txt
+├── train_model.py              
 ├── data/
-│   └── GHG Dataset.xlsx         # Dataset used for model development
+│   └── GHG Dataset.xlsx
 ├── model/
-│   ├── LR_model.pkl             # Trained linear regression model
-│   └── scaler.pkl               # Scaler used for preprocessing
+│   ├── LR_model.pkl
+│   └── scaler.pkl
 ├── static/
 │   ├── Edunet-Foundation-logo.png
-│   └── Shell-Logo.png           # Logos displayed in the web UI
+│   └── Shell-Logo.png
 └── templates/
-    └── index.html               # Main HTML template rendered by Flask
+    └── index.html
+
 ```
 ---------------------
  ## Notes:
