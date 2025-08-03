@@ -92,7 +92,7 @@ Technologies Used
 ![GreenHouse Gas Emmsion Prediction WebApp View](https://github.com/Soumya2-Roy/Edunet-Shell-Internship/blob/main/GHG%20EMISSION%20PREDICTION%20WEB-APP%20VIEW/Screenshot%202025-08-03%20105619.png)
 ![GreenHouse Gas Emmsion Prediction WebApp View-2](https://github.com/Soumya2-Roy/Edunet-Shell-Internship/blob/main/GHG%20EMISSION%20PREDICTION%20WEB-APP%20VIEW/Screenshot%202025-08-03%20110546.png)
 
-UPLOADING THE DEMO VEDIO FOR SHOWING THE APPLICATION DEMO
+[UPLOADING THE DEMO VEDIO FOR SHOWING THE APPLICATION DEMO](https://github.com/Soumya2-Roy/Edunet-Shell-Internship/issues/1)
 
 --------------------------------------
 ## Project Structure:
