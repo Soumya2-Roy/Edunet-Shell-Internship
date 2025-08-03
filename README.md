@@ -38,7 +38,7 @@ To design a machine learning solution that predicts **Supply Chain Emission Fact
 - [U.S. GHG Emission Factors Dataset – Data.gov](https://catalog.data.gov/dataset/supply-chain-greenhouse-gas-emission-factors-for-us-industries-and-commodities)
 
 ---
-## DATASETS
+## Datasets
 - [SupplyChainEmissionFactorsforUSIndustriesCommodities (1)](https://github.com/Soumya2-Roy/Edunet-Shell-Internship/blob/main/Datasets/datasets.xlxs.xlsx)
 ## Tech Stack(For .ipynb file):
 - **Language**: Python  
