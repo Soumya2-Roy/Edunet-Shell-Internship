@@ -124,7 +124,7 @@ GHG Emission App/
 ##  How to Run Locally:
 1. Clone the repo:
 ```
-git clone https://github.com/Siteshgupta123/Edunet-Shell-Internship.git
+git clone https://https://github.com/Soumya2-Roy/Edunet-Shell-Internship
 cd Edunet-Shell-Internship
 ```
 2. Install dependencies:
