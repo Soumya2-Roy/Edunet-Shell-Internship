@@ -89,8 +89,8 @@ Technologies Used
 
 ---
 ## Project View:
-![GreenHouse Gas Emmsion Prediction WebApp View](https://github.com/user-attachments/assets/5b4a1639-9947-47cb-9b32-9aeb5229afa0)
-![GreenHouse Gas Emmsion Prediction WebApp View-2](https://github.com/user-attachments/assets/3443b36f-2591-4f1c-bd13-f769c7a435ba)
+![GreenHouse Gas Emmsion Prediction WebApp View](https://github.com/Soumya2-Roy/Edunet-Shell-Internship/blob/main/GHG%20EMISSION%20PREDICTION%20WEB-APP%20VIEW/Screenshot%202025-08-03%20105619.png)
+![GreenHouse Gas Emmsion Prediction WebApp View-2](https://github.com/Soumya2-Roy/Edunet-Shell-Internship/blob/main/GHG%20EMISSION%20PREDICTION%20WEB-APP%20VIEW/Screenshot%202025-08-03%20110546.png)
 
 https://github.com/user-attachments/assets/68a33ae2-9fea-402a-86ba-cb6d4a1c5905
 
