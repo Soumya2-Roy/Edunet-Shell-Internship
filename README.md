@@ -137,7 +137,8 @@ python app.py
 ```
 4. Visit in browser:
 ```
-http://localhost:5000
+http://http://127.0.0.1:5000
+http:http://192.168.29.64:5000
 ```
 ### Features:
 - Interactive HTML form for GHG prediction
