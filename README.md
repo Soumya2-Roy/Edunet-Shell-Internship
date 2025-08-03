@@ -39,7 +39,7 @@ To design a machine learning solution that predicts **Supply Chain Emission Fact
 
 ---
 ## DATASETS
-- [SupplyChainEmissionFactorsforUSIndustriesCommodities (1)]()
+- [SupplyChainEmissionFactorsforUSIndustriesCommodities (1)](https://github.com/Soumya2-Roy/Edunet-Shell-Internship/blob/main/Datasets/datasets.xlxs.xlsx)
 ## Tech Stack(For .ipynb file):
 - **Language**: Python  
 - **Libraries**:  
@@ -139,7 +139,7 @@ python app.py
 4. Visit in browser:
 ```
 http://http://127.0.0.1:5000
-http:http://192.168.29.64:5000
+http://http://192.168.29.64:5000
 ```
 ### Features:
 - Interactive HTML form for GHG prediction
