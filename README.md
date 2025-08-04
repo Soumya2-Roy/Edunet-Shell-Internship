@@ -99,18 +99,20 @@ Technologies Used
 ```
 GHG Emission App/
 ├── app.py                       # Main Flask application file
-├── requirements.txt
-├── train_model.py              
+├── requirements.txt             # List of required Python packages
+├── train_model.py               # Dataset used for model development
 ├── data/
-│   └── GHG Dataset.xlsx
-├── model/
-│   ├── LR_model.pkl
+│   └── GHG Dataset.xlsx         # Trained linear regression model
+├── static/
+├── model/                   
+│   ├── LR_model.pkl             # Trained linear regression model
+│   └── scaler.pkl               # Scaler used for preprocessing
 │   └── scaler.pkl
 ├── static/
 │   ├── Edunet-Foundation-logo.png
-│   └── Shell-Logo.png
+│   └── Shell-Logo.png          # Logos displayed in the web UI
 └── templates/
-    └── index.html
+    └── index.html              # Main HTML template rendered by Flask
 
 ```
 ---------------------
